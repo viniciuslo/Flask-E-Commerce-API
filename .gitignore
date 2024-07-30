@@ -1,0 +1,41 @@
+# Environments
+venv/
+meuenv/
+flaskEenv/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+instance/
+
+# Flask-SQLAlchemy
+*.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
